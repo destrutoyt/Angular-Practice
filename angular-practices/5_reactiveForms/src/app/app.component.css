@@ -1,0 +1,23 @@
+.container {
+    margin-top: 30px;
+}
+
+input.ng-invalid.ng-touched {
+    border: 1px solid red;
+}
+
+.btn-info {
+    margin-bottom:3vh;
+}
+
+.help-block {
+    margin-right:1vw;
+}
+
+form * {
+    margin: 10px 0px;
+}
+
+form div.radio, form div.radio * {
+    margin: 0px;
+}
